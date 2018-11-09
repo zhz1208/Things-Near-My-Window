@@ -10,7 +10,7 @@ body {
 .timeline-wrapper {
     white-space: nowrap;
     display: block;
-    height: 60rem;
+    height: 100vh;
     position: relative;
     color: #fff;
     text-align: center;
